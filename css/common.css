@@ -1,0 +1,23 @@
+.ta {
+	background-color:#ffc;
+	border:1px solid orange;
+	border-left-width:5px;
+	padding:0.2em 1em;
+	font-family:"Courier New", monospace;
+	font-size:0.9em;
+	margin:1em 0px;
+}
+
+.error {
+	margin:0.5em 0px;
+	padding:0.2em;
+	border-left:2px solid red;
+	font-weight:bold;
+}
+
+.success {
+	margin:0.5em 0px;
+	padding:0.2em;
+	border-left:2px solid green;
+	font-style:italic;
+}
